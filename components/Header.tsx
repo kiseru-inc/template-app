@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { APP } from "..config/app";
+import { APP } from "../config/app";
 
 export function Header() {
   return (
